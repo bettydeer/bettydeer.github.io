@@ -474,3 +474,12 @@ img::-moz-selection {
 body {
     webkit-tap-highlight-color: #222;
 }
+
+/* extra styles */
+
+#selfie {
+    border-radius: 50%;
+    margin: 0 auto;
+}
+
+
